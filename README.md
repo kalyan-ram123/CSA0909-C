@@ -77,7 +77,7 @@ If you are uploading this work to GitHub:
 Academic integrity
 Use this repository in accordance with your institution's academic-integrity rules. Review the solutions, make sure you understand the code and design choices, and adapt or cite material as required by your course. Do not claim that tests were run or evidence was collected unless you have actually done so.
 Author
-- Student name: L RISHINATHAN
-- Register/Roll number: 1911260190
+- Student name:M.kalyan ram
+- Register/Roll number: 192425352
 - Course/Module: CSA09
 - Assignment: Assignment 1 — Campus Smart-Parking System
