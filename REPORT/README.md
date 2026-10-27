@@ -36,4 +36,4 @@ Student Details
 - Name: L Rishinathan
 - Register Number: 1911260190
 - Java Version: java 17
-- GitHub Repository: https://github.com/rishi2338/CSA0909-1911260190-ASSIGNMENT1 
+- GitHub Repository: https://github.com/kalyan-ram123/CSA0909-C-ASSIGNMENT1 
