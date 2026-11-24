@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS assignment5;
+USE assignment5;
+CREATE TABLE IF NOT EXISTS bus_pass (
+  pass_id VARCHAR(30) PRIMARY KEY
+);
